@@ -76,7 +76,7 @@ Recently expanded into **Generative AI** — building agentic AI systems, RAG pi
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [research-paper-generator-rag](https://github.com/mohitmail85/research-paper-generator-rag) | RAG-based research paper generator with PDF upload, vector indexing, and evidence tracking | FastAPI, Gemini, Qdrant, Docker |
+| [rag-ai-research-papers](https://github.com/mohitmail85/rag-ai-research-papers) | RAG-based research paper generator with PDF upload, vector indexing, and evidence tracking | FastAPI, Gemini, Qdrant, Docker |
 | [financial-advisor-ai](https://github.com/mohitmail85/financial-advisor-ai) | AI-powered stock market investment advisor with multi-agent system | CrewAI, FastAPI, Next.js |
 | [ai-dev-agent](https://github.com/mohitmail85/ai-dev-agent) | Autonomous AI engineering assistant — takes user stories, writes code, raises PRs | Claude Agent SDK, Python |
 | [ai-resume-screener](https://github.com/mohitmail85/ai-resume-screener) | Resume screening app with scoring and recommendations | Next.js, FastAPI, Gemini |
